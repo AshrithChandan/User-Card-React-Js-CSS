@@ -25,7 +25,7 @@ You can now start the development server to see your web application:
 
 
 
-### domo
+# domo
       ![image](https://github.com/AshrithChandan/User-Card-React-Js-CSS/assets/96688712/caa1850c-2152-476c-bc2a-75eef06b5ffe)
 
 # Getting Started with Create React App
