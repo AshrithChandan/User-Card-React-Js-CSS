@@ -1,4 +1,4 @@
-#Step 1:
+# Step 1:
 Set Up Your Project
 First, make sure you have Node.js and npm installed. If not, you can download and install them from Node.js website.
 
@@ -8,15 +8,15 @@ bash :
       npx create-react-app user-card-app
       cd user-card-app
       
-#Step 2: 
+# Step 2: 
 Create Components
 Inside the src folder, create the following components: Navbar.js, UserCard.js, and App.js.
 
-#Step 3: 
+# Step 3: 
 Add Styling
 You can create custom CSS in App.css or use styled-components or SASS, as you prefer. Here's a basic example using CSS:
 
-#Step 4: 
+# Step 4: 
 Start the Development Server
 You can now start the development server to see your web application:
 
