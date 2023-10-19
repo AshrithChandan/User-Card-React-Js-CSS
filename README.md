@@ -10,7 +10,7 @@ Now, let's create a new React application using Create React App:
       
 # Step 2: 
 Create Components
-Inside the src folder, create the following components: [Navbar.js](https://github.com/AshrithChandan/User-Card-React-Js-CSS/blob/main/Navbar.js), UserCard.js, and App.js.
+Inside the src folder, create the following components: [Navbar js](https://github.com/AshrithChandan/User-Card-React-Js-CSS/blob/main/Navbar.js), UserCard.js, and App.js.
 
 # Step 3: 
 Add Styling
