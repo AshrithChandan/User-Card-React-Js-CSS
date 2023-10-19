@@ -4,7 +4,7 @@ First, make sure you have Node.js and npm installed. If not, you can download an
 
 Now, let's create a new React application using Create React App:
 
-bash :
+### bash :
       npx create-react-app user-card-app
       cd user-card-app
       
@@ -20,7 +20,7 @@ You can create custom CSS in App.css or use styled-components or SASS, as you pr
 Start the Development Server
 You can now start the development server to see your web application:
 
-bash:
+### bash:
       npm start
 
 
